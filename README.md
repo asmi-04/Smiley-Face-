@@ -6,7 +6,7 @@ It uses **HTML** for structure and **CSS** for styling to create a yellow circul
 No images or JavaScript are used — the design is built purely with CSS shapes.
 
 ## 🖥️ Demo
-<img width="986" height="1042" alt="image" src="https://github.com/user-attachments/assets/9e671945-710b-4c16-ac1d-5b89845bbf08" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9e671945-710b-4c16-ac1d-5b89845bbf08" />
 
 
 ## 🛠️ Technologies Used
